@@ -1,0 +1,6 @@
+.box-items{
+    margin-top: 90px;
+}
+.overflow-auto::-webkit-scrollbar{
+    display: none;
+}

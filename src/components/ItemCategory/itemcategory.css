@@ -1,0 +1,14 @@
+.box-item {
+    width: 150px;
+    height: 100px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.box-item>h6 {
+    margin-top: 60px;
+}
+
+.box-item>.image-box {
+    top: 5px;
+}
